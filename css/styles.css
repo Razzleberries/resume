@@ -1,15 +1,84 @@
 /* Your Website Styles */
+
+
 body {
-	background: #eee;
+	background: #946B4F;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1{
+	color: #24586B;
+	background: url("../img/concrete_wall.png");;
+	text-align: center;
+	padding: 25px 0;
+	font-size: 3em;
+	font-weight: 600;
+}
+
+.wrapper{
+	background: url("../img/concrete_wall.png");;
 }
 
 
-div {
+/*div {
 	margin-top: -60px;	x 
-}
+}*/
 
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: #946B4F;
+	padding: 30px;
+}
+
+p{
+	color: #0F212E;
+	font-size: 1em;
+	line-height: 1.375em;
+	padding: 0 0 0 10px;
+}
+
+li{
+	color: #0F212E;
+	font-size: : 1em;
+	line-height: 1.375em;
+}
+
+h3,h4{
+	color: #1B3F50;
+	padding: 0 0 0 10px;
+}
+
+#Object{
+	text-align: center;
+	font-size: 2.25em;
+}
+
+blockquote{
+	text-align: center;
+	color: #0F212E;
+	font-size: 1.5em;
+	font-weight: 400;
+	font-style: italic;
+
+}
+
+h2{
+	background: url("../img/concrete_wall.png");;
+	font-size: 2.25em;
+	color: #24586B;
+	padding: 0 0 0 10px;
+}
+
+h3{
+	font-size: 1.75em;
+}
+
+footer{
+	text-align: center;
+	padding: 30px 0 0 0;
+}
+
+iframe{
+	padding: 30px 0 0 0;
 }
